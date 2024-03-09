@@ -1,3 +1,7 @@
+# Travel List
+
+The Travel List app is designed to help users organize and manage their packing list for vacations. The app allows users to add items to their checklist, mark them as completed when packed, and even set reminders for essential tasks. With intuitive features and the ability to sync across devices, Travel List ensures that users don't forget anything important when preparing for their trips.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
